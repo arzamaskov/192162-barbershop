@@ -1,0 +1,25 @@
+/*оформление
+selector {
+  Позиционирование
+  Блочная модель
+  Типографика
+  Оформление
+  Анимация
+  Разное
+}
+*/
+
+body {
+  /*Блочная модель*/
+  margin: 0;
+  padding: 0;
+  /* Типографика */
+  font-size: 14px;
+  line-height: 24px;
+  font-family: "PT Sans Narrow", "Arial", sans-serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  /* Оформление */
+  color: #000000;
+
+}
